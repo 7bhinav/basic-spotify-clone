@@ -47,6 +47,6 @@ Use the next and previous buttons to navigate through the playlist.
 Song details such as title and artist will be displayed on the screen.
 Contributing
 
-##Contributions are welcome! :
+## Contributions are welcome! :
 
 Fork the repository.
